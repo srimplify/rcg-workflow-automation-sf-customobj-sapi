@@ -1,10 +1,10 @@
 ## System API for accessing a Salesforce custom object called Title
 
-This API is part of workflow automation use case. See this link for documentation: [Experience API repo](https://github.com/srimplify/rcg-workflow-automation-portal-xapi) for use case and API-led design.dd
+This API is part of workflow automation use case. See this link for documentation: [Experience API repo](https://github.com/srimplify/rcg-workflow-automation-portal-xapi) for use case and API-led design.
 
 ---
 
-Title data type: 
+Title data type is used this API 
 ```
 "data": { 
   "name": "Warface", 
